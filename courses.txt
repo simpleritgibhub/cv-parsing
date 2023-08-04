@@ -5,3 +5,4 @@ Kubernetes Training
 Python Scripting
 Jenkins Training
 ArgoCD Training
+logic to send email
