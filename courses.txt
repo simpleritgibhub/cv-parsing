@@ -2,3 +2,4 @@ DevOps Master
 AWS Solutions Architect
 Terraform Certification Training
 Kubernetes Training
+Python Scripting
